@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Himanshu Yadav
-- 👀 I’m interested in problem solving with Ai and machine learning.
-- 🌱 I’m currently learning Deep learning and computer vision
-- 💞️ I’m looking to collaborate on Data Analytics or Computer vesion projects 
+- 👀 I’m interested in problem solving with DSA.
 - 📫 reach me at himanshu95627@gmail.com
 
 <!---
